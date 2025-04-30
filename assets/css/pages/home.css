@@ -156,7 +156,7 @@ hr {
   background: linear-gradient(90deg, rgb(191, 221, 15) 0%, rgb(11, 239, 255) 100%);
 }
 .btn-primary:hover {
-  background: linear-gradient(180deg, rgb(191, 221, 15) 0%, rgb(11, 239, 255) 100%);
+  background: linear-gradient(180deg, rgb(191, 221, 15) 0%, rgb(11, 239, 255) 100%) !important;
 }
 
 .btn-dark:hover {
@@ -2507,4 +2507,7 @@ a#scrollUp {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+.cv-li{
+  padding: 13px 0px;
 }
