@@ -1656,9 +1656,9 @@ a#scrollUp {
 
 .radial-progress circle.bar--animated {
   stroke-dasharray: 219.9114857513;
-  stroke: #99E5B7;
+  stroke: #000000;
   stroke-dashoffset: 219.9114857513;
-  stroke-width: 10px;
+  stroke-width: 1px;
   stroke-linecap: round;
 }
 
